@@ -1,3 +1,5 @@
+package tfs.testing;
+
 /**
  * Driver program which tests the methods of the tfs.structures.FDT class. An FDT is created
  * and populated with several FCB's and corresponding current offsets within each. The various methods

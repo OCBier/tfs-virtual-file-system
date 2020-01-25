@@ -12,6 +12,11 @@ package tfs.exceptions;
  */
 public class DirModException extends RuntimeException
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public DirModException(String message)
 	{
 		super(message);

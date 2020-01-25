@@ -1,3 +1,5 @@
+package tfs.testing;
+
 /**
  * Basic test to make sure the TFSDiskInputOutput class correctly does its job of providing an
  * API for creating a file to emulate the disk and to enable writing and reading to this "disk."
@@ -10,7 +12,7 @@
  */
 
 import java.io.UnsupportedEncodingException;
-import java.util.Arrays;
+
 
 import tfs.TFSDiskInputOutput;
 

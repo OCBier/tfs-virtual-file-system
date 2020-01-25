@@ -1,3 +1,5 @@
+package tfs.testing;
+
 /**
  * Driver program to test the tfs.structures.FCB class to make sure all methods work correctly. See screenshots
  * in TFS\ScreenShots folder for outputs.
@@ -9,7 +11,6 @@
 
 import java.io.UnsupportedEncodingException;
 import java.nio.ByteBuffer;
-import java.util.Arrays;
 
 import tfs.structures.FCB;
 
