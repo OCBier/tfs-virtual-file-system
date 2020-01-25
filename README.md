@@ -1,7 +1,9 @@
 # virtual-disk-file-system
 A FAT-based file system (TFS) aimed at micro mobile devices. Includes an API and lightweight CLI (shell) for functional testing.
 
-***********
+Below is a general overview of the system structure. Also check out the [project wiki](https://github.com/OCBier/virtual-disk-file-system/wiki) for more info.
+
+
 ## Packages Overview
 ***********
 
@@ -14,7 +16,7 @@ A FAT-based file system (TFS) aimed at micro mobile devices. Includes an API and
 
 <br />
 
-************
+
 ## Testing Overview
 ************
 Several driver programs to test the various modules and supporting classes of the file system are included. 
