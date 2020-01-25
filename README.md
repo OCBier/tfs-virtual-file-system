@@ -1,4 +1,4 @@
-# virtual-disk-file-system
+# tfs-virtual-file-system
 A FAT-based file system (TFS) aimed at micro mobile devices. Includes an API and lightweight CLI (shell) for functional testing.
 
 Below is a general overview of the system structure. Also check out the [project wiki](https://github.com/OCBier/virtual-disk-file-system/wiki) for more info.
