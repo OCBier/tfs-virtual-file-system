@@ -19,5 +19,5 @@ Below is a general overview of the system structure. Also check out the [project
 
 ## Testing Overview
 ************
-Several driver programs to test the various modules and supporting classes of the file system are included. 
+Several driver programs to test the various modules and supporting classes of the file system are included in `tfs.testing`. 
 
